@@ -1,5 +1,23 @@
 {
   "name": "snapy-rentals-website",
+  {
+  "name": "snappy-rentals-website",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://snappy-rentals-website.netlify.app", // <--- ADD THIS LINE EXACTLY
+  "dependencies": {
+    // ... rest of your dependencies
+  },
+  "scripts": {
+    // ... rest of your scripts
+  },
+  "eslintConfig": {
+    // ... rest of your eslint config
+  },
+  "browserslist": {
+    // ... rest of your browserslist
+  }
+}
   "version": "0.1.0",
   "private": true,
   "dependencies": {
